@@ -1,0 +1,11 @@
+{
+    "display_name": "✂️ 碎碎念自动截断",
+    "loading_order": 100,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "css": "",
+    "author": "local",
+    "version": "1.0.0",
+    "homePage": ""
+}
